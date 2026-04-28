@@ -46,7 +46,7 @@
 
 ### 🌟 Contribution Visuals
 
-#### My 3D Contribution Graph
+#### My Contribution Graph
 ![3D Graph](profile-3d-contrib/profile-night-view.svg)
 
 #### My Contribution Snake
