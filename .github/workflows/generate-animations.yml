@@ -1,30 +1,36 @@
 name: Generate GitHub Profile 3D & Animations
 
 on:
-  # Run automatically every 24 hours
   schedule:
     - cron: "0 0 * * *" 
-  # Allow manual trigger
   workflow_dispatch:
-  # Run on every push to the master/main branch
   push:
     branches:
     - main
+
+# 1. EXPLICIT PERMISSIONS: This guarantees we bypass the 128 error
+permissions:
+  contents: write
+
+# 2. ENVIRONMENT OVERRIDE: This silences the Node.js warning
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      # Updated to v4 to comply with modern GitHub Action standards
+      - uses: actions/checkout@v4
 
-      # 1. Generates the 3D Contribution Graph
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      # Generates the 3D Contribution Graph (Updated to v0.8.2)
+      - uses: yoshi389111/github-profile-3d-contrib@0.8.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      # 2. Generates the Animated Snake eating your commits
+      # Generates the Animated Snake eating your commits
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -32,11 +38,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Commits the generated images back to your repository
+      # Commits the generated images safely back to your repository
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "Generated 3D graph and snake animation" || exit 0
+          git commit -m "Generated 3D graph and snake animation" || echo "No changes to commit"
           git push
