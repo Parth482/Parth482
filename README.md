@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on full-stack web and mobile applications.
 - 🌱 I’m currently deep-diving into new frameworks and scalable backend architectures.
 - 💬 Ask me about **JavaScript, TypeScript, React, and building RESTful APIs**.
-- 📫 Reach out to me: **[Visit my Portfolio](https://parthjoshi-dev.vercel.app)**
+- 📫 Reach out to me: **<a href="https://parthjoshi-dev.vercel.app" target="_blank">Visit my Portfolio</a>**
 
 ---
 
