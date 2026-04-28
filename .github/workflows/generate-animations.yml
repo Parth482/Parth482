@@ -8,24 +8,19 @@ on:
     branches:
     - main
 
-# 1. EXPLICIT PERMISSIONS: This guarantees we bypass the 128 error
+# EXPLICIT PERMISSIONS: This guarantees we bypass the 128 error
 permissions:
   contents: write
-
-# 2. ENVIRONMENT OVERRIDE: This silences the Node.js warning
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      # Updated to v4 to comply with modern GitHub Action standards
       - uses: actions/checkout@v4
 
-      # Generates the 3D Contribution Graph (Updated to v0.8.2)
-      - uses: yoshi389111/github-profile-3d-contrib@0.8.2
+      # Generates the 3D Contribution Graph (Corrected to v0.9.2)
+      - uses: yoshi389111/github-profile-3d-contrib@0.9.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
