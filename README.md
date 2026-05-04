@@ -38,17 +38,25 @@
 
 ---
 
-### 📊 GitHub Dashboard
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Parth482/Parth482/main/github-metrics.svg" alt="Metrics Dashboard" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth482&theme=tokyonight&hide_border=true&background=0D1117" alt="Parth's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Parth482&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
 
-### 🐍 Contribution Activity
+### 🌟 Contribution Visuals
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Parth482/Parth482/main/profile-3d-contrib/profile-night-view.svg" alt="3D Graph" />
+
+  <h4>My Contribution</h4>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parth482/Parth482/main/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parth482/Parth482/main/dist/github-contribution-grid-snake.svg">
