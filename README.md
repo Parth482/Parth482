@@ -54,8 +54,8 @@
 ### 🌟 Contribution Visuals
 
 <div align="center">
-  <h4>Contribution Activity Graph</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth482&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+  <h4>My Contribution Graph</h4>
+  <img src="https://raw.githubusercontent.com/Parth482/Parth482/main/profile-3d-contrib/profile-night-view.svg" alt="3D Graph" />
 
   <h4>My Contribution</h4>
   <picture>
