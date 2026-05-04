@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Parth482&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Parth's GitHub stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth482&theme=tokyonight&hide_border=true&background=0D1117" alt="Parth's GitHub Streak" />
 </div>
 
@@ -54,7 +54,6 @@
 ### 🌟 Contribution Visuals
 
 <div align="center">
-  <h4>My Contribution Graph</h4>
   <img src="https://raw.githubusercontent.com/Parth482/Parth482/main/profile-3d-contrib/profile-night-view.svg" alt="3D Graph" />
 
   <h4>My Contribution</h4>
