@@ -47,11 +47,11 @@
 ### 🌟 Contribution Visuals
 
 #### My Contribution Graph
-![3D Graph](profile-3d-contrib/profile-night-view.svg)
+![3D Graph](https://raw.githubusercontent.com/Parth482/Parth482/main/profile-3d-contrib/profile-night-view.svg)
 
 #### My Contribution
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parth482/Parth482/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parth482/Parth482/main/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Parth482/Parth482/main/dist/github-contribution-grid-snake.svg">
 </picture>
