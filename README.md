@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Parth Joshi 👋</h1>
-<h3 align="center">Full-Stack Developer | MERN & React Native Enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Parth+Joshi+👋;Full-Stack+Developer;MERN+%26+React+Native+Enthusiast;Always+learning+new+technologies!" alt="Typing SVG" />
+</div>
 
 <p align="center">
   Building scalable apps, exploring new technologies, and turning ideas into real products. Based in Gujarat, India. 🌍
@@ -26,32 +27,40 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend & Database:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-**Languages:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%230074c1.svg?style=flat-square&logo=typescript&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,tailwind,nodejs,express,mongodb,python,redis,postgres,supabase,aws,githubactions,vercel,postman,docker&theme=dark" />
+  </a>
+  <br />
+  <br />
+  <sub>*Note: PM2 and Upstash are also part of my core stack!*</sub>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parth482&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Parth's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth482&theme=tokyonight&hide_border=true&background=0D1117" alt="Parth's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth482&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
 ---
 
 ### 🌟 Contribution Visuals
 
-#### My Contribution Graph
-![3D Graph](https://raw.githubusercontent.com/Parth482/Parth482/main/profile-3d-contrib/profile-night-view.svg)
+<div align="center">
+  <h4>My Contribution Graph</h4>
+  <img src="https://raw.githubusercontent.com/Parth482/Parth482/main/profile-3d-contrib/profile-night-view.svg" alt="3D Graph" />
 
-#### My Contribution
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parth482/Parth482/main/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parth482/Parth482/main/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Parth482/Parth482/main/dist/github-contribution-grid-snake.svg">
-</picture>
+  <h4>My Contribution</h4>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parth482/Parth482/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parth482/Parth482/main/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Parth482/Parth482/main/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
