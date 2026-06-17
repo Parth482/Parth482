@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://parthjoshi-dev.vercel.app" target="_blank">
+  <a href="parthjoshi.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/jparth842" target="_blank">
@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on full-stack web and mobile applications.
 - 🌱 I’m currently deep-diving into new frameworks and scalable backend architectures.
 - 💬 Ask me about **JavaScript, TypeScript, React, and building RESTful APIs**.
-- 📫 Reach out to me: **<a href="https://parthjoshi-dev.vercel.app" target="_blank">Visit my Portfolio</a>**
+- 📫 Reach out to me: **<a href="parthjoshi.dev" target="_blank">Visit my Portfolio</a>**
 
 ---
 
